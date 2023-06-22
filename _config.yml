@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alexandrina.guran@univie.ac.at"}
   - {title: Github, icon: github, url: "https://github.com/rinampi"}
-  - {title: Twitter, icon: twitter, url: "twitter.com/gurancna"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/GuranCNA"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
