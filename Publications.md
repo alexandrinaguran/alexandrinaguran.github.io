@@ -4,7 +4,7 @@ permalink: "/publications/"
 layout: page
 ---
 
-# Publications 
+# Peer-Reviewed Publications 
 
  - **Guran, C. N. A.**, Sladky, R., Karl, S., Boch, M., Laistler, E., Windischberger, C., Huber, L., & Lamm, C. (2022). [Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies](https://www.eneuro.org/content/10/3/ENEURO.0083-22.2022). bioRxiv, 2022-06.
  - **Guran, C. N. A.**, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). [Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans](https://academic.oup.com/cercorcomms/article/3/1/tgac009/6529998). Cerebral Cortex Communications, 3(1), tgac009.
