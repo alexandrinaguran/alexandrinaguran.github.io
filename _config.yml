@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: CV}
-  - {file: "Publication.md", title: Publications}
+  - {file: "Publications.md", title: Publications}
   - {file: "Contact.md", title: Contact}
 #  - {file: "Students.html", title: Students}
   - {title: "CCNU", url: "https://ccnu.univie.ac.at/"}
