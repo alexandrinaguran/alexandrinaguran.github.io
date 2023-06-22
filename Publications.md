@@ -7,7 +7,7 @@ layout: page
 ## Publications
 # As first author
 
- - supports dark mode on macOS Mojave
+ - *Guran, C. N. A.*, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans. Cerebral Cortex Communications, 3(1), tgac009.
  - optional sidebar
  - MathJax support
  - no external ressources
