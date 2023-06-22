@@ -6,11 +6,11 @@ layout: page
 
 # Publications 
 
- - **Guran, C. N. A.**, Sladky, R., Karl, S., Boch, M., Laistler, E., Windischberger, C., Huber, L., & Lamm, C. (2022). Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies. bioRxiv, 2022-06.
- - **Guran, C. N. A.**, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans. Cerebral Cortex Communications, 3(1), tgac009.
- - **Guran, C. N. A.**, Lehmann-Grube, J., & Bunzeck, N. (2020). Retrieval practice improves recollection-based memory over a seven-day period in younger and older adults. Frontiers in Psychology, 10, 2997.
- - **Guran, C. N. A.**, Herweg, N. A., & Bunzeck, N. (2019). Age-related decreases in the retrieval practice effect directly relate to changes in alpha-beta oscillations. Journal of Neuroscience, 39(22), 4344-4352.
- - Babayan, A., Erbey, M., Kumral, D., Reinelt, J. D., Reiter, A. M., Röbbig, J., ... **Guran, C. N. A.**, ... & Villringer, A. (2019). A mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults. Scientific data, 6(1), 1-21.
+ - **Guran, C. N. A.**, Sladky, R., Karl, S., Boch, M., Laistler, E., Windischberger, C., Huber, L., & Lamm, C. (2022). [Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies](https://www.eneuro.org/content/10/3/ENEURO.0083-22.2022). bioRxiv, 2022-06.
+ - **Guran, C. N. A.**, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). [Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans](https://academic.oup.com/cercorcomms/article/3/1/tgac009/6529998). Cerebral Cortex Communications, 3(1), tgac009.
+ - **Guran, C. N. A.**, Lehmann-Grube, J., & Bunzeck, N. (2020). [Retrieval practice improves recollection-based memory over a seven-day period in younger and older adults](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02997/full). Frontiers in Psychology, 10, 2997.
+ - **Guran, C. N. A.**, Herweg, N. A., & Bunzeck, N. (2019). [Age-related decreases in the retrieval practice effect directly relate to changes in alpha-beta oscillations](https://www.jneurosci.org/content/39/22/4344). Journal of Neuroscience, 39(22), 4344-4352.
+ - Babayan, A., Erbey, M., Kumral, D., Reinelt, J. D., Reiter, A. M., Röbbig, J., ... **Guran, C. N. A.**, ... & Villringer, A. (2019). [A mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults](https://www.nature.com/articles/sdata2018308). Scientific data, 6(1), 1-21.
 
 # Preprints
 
