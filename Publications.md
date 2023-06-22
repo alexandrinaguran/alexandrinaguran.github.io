@@ -5,16 +5,19 @@ layout: page
 ---
 
 # Publications 
-### reverse chronological
 
+ - **Guran, C. N. A.**, Sladky, R., Karl, S., Boch, M., Laistler, E., Windischberger, C., Huber, L., & Lamm, C. (2022). Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies. bioRxiv, 2022-06.
  - **Guran, C. N. A.**, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans. Cerebral Cortex Communications, 3(1), tgac009.
  - **Guran, C. N. A.**, Lehmann-Grube, J., & Bunzeck, N. (2020). Retrieval practice improves recollection-based memory over a seven-day period in younger and older adults. Frontiers in Psychology, 10, 2997.
  - **Guran, C. N. A.**, Herweg, N. A., & Bunzeck, N. (2019). Age-related decreases in the retrieval practice effect directly relate to changes in alpha-beta oscillations. Journal of Neuroscience, 39(22), 4344-4352.
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Babayan, A., Erbey, M., Kumral, D., Reinelt, J. D., Reiter, A. M., Röbbig, J., ... **Guran, C. N. A.**, ... & Villringer, A. (2019). A mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults. Scientific data, 6(1), 1-21.
 
 # Preprints
+
+- Gold, C., Groessing, A., Ruiz, M., **Guran, A.**, Koçan, A., Kouwer, K., ... & Specht, K. (2023). [Design and implementation of a replication study: The Music for Autism (M4A) binational assessor-blinded randomised crossover trial.](https://www.researchsquare.com/article/rs-2478719/v1)
+- **Guran, C. N. A.**, Lonardo, L., Tünte, M. R., Arzberger, K., Völter, C., Hoehl, S., ... & Lamm, C. (2022). [False belief understanding in children and dogs in a nonverbal ambiguous displacement and communication setting.](https://psyarxiv.com/s5ygj/download/?format=pdf) PsyRXiv. 
+- Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S. E., Espinosa, J., Gnanadesikan, G., **Guran, C.N.A.**, ... & Stevens, J. R. (2022). [ManyDogs Project: A Big Team Science Approach to Investigating Canine Behavior and Cognition](https://psyarxiv.com/j82uc/download?format=pdf). PsyRXiv. 
+
 
 ## Based on
 
