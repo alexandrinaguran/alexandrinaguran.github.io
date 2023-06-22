@@ -4,19 +4,17 @@ permalink: "/publications/"
 layout: page
 ---
 
-# Publications
-## As first author
+# Publications 
+### reverse chronological
 
  - **Guran, C. N. A.**, Deuker, L., Göttlich, M., Axmacher, N., & Bunzeck, N. (2022). Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans. Cerebral Cortex Communications, 3(1), tgac009.
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
+ - **Guran, C. N. A.**, Lehmann-Grube, J., & Bunzeck, N. (2020). Retrieval practice improves recollection-based memory over a seven-day period in younger and older adults. Frontiers in Psychology, 10, 2997.
+ - **Guran, C. N. A.**, Herweg, N. A., & Bunzeck, N. (2019). Age-related decreases in the retrieval practice effect directly relate to changes in alpha-beta oscillations. Journal of Neuroscience, 39(22), 4344-4352.
  - responsive
  - syntax highlighting
  - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+
+# Preprints
 
 ## Based on
 
