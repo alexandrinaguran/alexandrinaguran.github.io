@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: Home}
   - {file: "README.md", title: CV}
   - {file: "Publications.md", title: Publications}
-  - {file: "Contact.md", title: Contact}
+  - {title: Contact, url: "alexandrina.guran@univie.ac.at"}
 #  - {file: "Students.html", title: Students}
   - {title: "CCNU", url: "https://ccnu.univie.ac.at/"}
 
