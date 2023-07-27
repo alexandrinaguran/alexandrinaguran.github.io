@@ -15,8 +15,9 @@ For more info, see my preprints or the project website at: https://www.m4a-proje
 
 # Dog´s perception of social interaction 
 
-Leading author in project
+Leading author in project (MRI-research). Selection of collaborators: Prof. Claus Lamm, Prof. Ludwig Huber, Dr. Christoph Völter, Dr. Magdalena Boch, Lucrezia Lonardo
 
+The core project of my postdoctoral research project revolves around the evolution of social cognition in humans in dogs. Within this project, I am running studies about social and non-social interaction perception, somatosensory perception, and observation of vicarious touch in others. Doing fMRI scanning with dogs is challenging, thus I have also worked on hardware improvements for the MRI scanning. For more information on our projects (and cute pictures of dogs in scanners), click the "CCNU" Tab at the top of this page. 
 
 # Human attitudes towards canines 
 
@@ -33,10 +34,10 @@ If you want to join the project, or for more information, visit: https://manydog
 # Other 
 
 - A comprehensive model of retrieval practice and its neural bases (with Prof. Nico Bunzeck, University of Lübeck) 
+- Connective Field Modeling in canines (with Dr. Nicholas Hedger, University of Reading)
+- Somatosensory perception and temperament in domestic pigs (co-author, leads: Dr. Charlotte Goursot, Dr. Oceane Schmitt, Dr. Jean-Loup Rault, Veterinary Medical University Vienna, and Dr. David Val-Laillet, INRAE, Université de Rennes and his team)
 - Multimodal perception of musical chords in professional and lay musicians (with Prof. Lars Kuchinke, International Psychoanalytic University Berlin)
-- Connective Field Modeling in canines (Dr. Nicholas Hedger, University of Reading)
-- Somatosensory perception and temperament in domestic pigs (Dr. Charlotte Goursot, Dr. Oceane Schmitt, Dr. Jean-Loup Rault, Veterinary Medical University Vienna, and Dr. David Val-Laillet, INRAE, Université de Rennes and his team)
 
 
-####  
+
 **Feel free to contact me for questions or collaboration requests!**
