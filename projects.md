@@ -13,17 +13,20 @@ Collaboration partners: Dr. Giorgia Silani, Dr. Christian Gold.
 In this project, I was responsible for the design and implementation of the music prediction task, in which children are presented with consonant and dissonant stimuli and learn to associate them with certain images. Our aim is to investigate whether prediction forming is disturbed in ASD and whether musictherapy can have a beneficial effect on music-related and social predictions.  
 For more info, see my preprints or the project website at: https://www.m4a-project.net/
 
+
 # Dog´s perception of social interaction 
 
 Leading author in project (MRI-research). Selection of collaborators: Prof. Claus Lamm, Prof. Ludwig Huber, Dr. Christoph Völter, Dr. Magdalena Boch, Lucrezia Lonardo
 
-The core project of my postdoctoral research project revolves around the evolution of social cognition in humans in dogs. Within this project, I am running studies about social and non-social interaction perception, somatosensory perception, and observation of vicarious touch in others. Doing fMRI scanning with dogs is challenging, thus I have also worked on hardware improvements for the MRI scanning. For more information on our projects (and cute pictures of dogs in scanners), click the "CCNU" Tab at the top of this page. 
+The core project of my postdoctoral research revolves around the evolution of social cognition in humans and dogs. Within this project, I am running studies about social and non-social interaction perception, somatosensory perception, and observation of vicarious touch in others. Doing fMRI scanning with dogs is challenging, thus I have also worked on hardware improvements for the MRI scanning. For more information on our projects (and cute pictures of dogs in scanners), click the "CCNU" Tab at the top of this page. 
+
 
 # Human attitudes towards canines 
 
 Collaboration partners: Prof. Dr. Friederike Range, PI Dr. Sarah Marshall-Pescini, Dr. Gwen Wirobski (Wolf Science Center). 
 
 In this project, I am responsible for designing explicit and implicit measures of attitudes towards dogs, wolves, and free-ranging dogs. To this end, we developed a questionnaire measuring sociodemographic data and attitudes. Additionally, I designed an adaptation of an IAT (implicit association test) to measure response-time based implicit biases for different animals. 
+
 
 # ManyDogs 
 
