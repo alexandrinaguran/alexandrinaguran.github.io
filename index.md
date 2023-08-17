@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<img src="/assets/1.JPG" align="left" width="300px"/>
+<img src="/assets/Profile.png" align="left" width="300px"/>
     I am a Cognitive Neuroscientist, working at the University of Vienna, affiliated with the <a href="https://cognitivescience.univie.ac.at/vienna-cogscihub-network-members/team-members/alexandrina-guran/"> Vienna Cognitive Science Hub </a> and the <a href="https://scan-psy.univie.ac.at/about-us/"> Social, Cognitive and Affective Neuroscience Unit</a>. Interested in Canine Social Cognition and Comparative Neuroscience. 
 
 
