@@ -19,7 +19,6 @@ Comprehension]
 
 # Preprints
 
-- Gold, C., Groessing, A., Ruiz, M., **Guran, A.**, Koçan, A., Kouwer, K., ... & Specht, K. (2023). [Design and implementation of a replication study: The Music for Autism (M4A) binational assessor-blinded randomised crossover trial.](https://www.researchsquare.com/article/rs-2478719/v1)
 - **Guran, C. N. A.**, Lonardo, L., Tünte, M. R., Arzberger, K., Völter, C., Hoehl, S., ... & Lamm, C. (2022). [False belief understanding in children and dogs in a nonverbal ambiguous displacement and communication setting.](https://psyarxiv.com/s5ygj/download/?format=pdf) PsyRXiv. 
 - Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S. E., Espinosa, J., Gnanadesikan, G., **Guran, C.N.A.**, ... & Stevens, J. R. (2022). [ManyDogs Project: A Big Team Science Approach to Investigating Canine Behavior and Cognition](https://psyarxiv.com/j82uc/download?format=pdf). PsyRXiv. 
 
