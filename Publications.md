@@ -6,7 +6,8 @@ layout: page
 
 # Peer-Reviewed Publications 
 
- -  **ManyDogs Project**, Espinosa, J., ... (2023). [ManyDogs 1: A Multi-Lab Replication Study of Dogs’ Pointing
+ - Ruiz, M., Groessing, A., **Guran, C. N. A.**, ... (2023). [Music for autism: a protocol for an international randomized crossover trial on music therapy for children with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10598663/). Frontiers in Psychiatry, 14. 
+ - **ManyDogs Project**, Espinosa, J., ... (2023). [ManyDogs 1: A Multi-Lab Replication Study of Dogs’ Pointing
 Comprehension]
 (https://www.animalbehaviorandcognition.org/uploads/journals/53/3%20ManyDogs_ABC_10(3).pdf). Animal Behavior and Cognition, 10(3), 232-286.
  - **Guran, C. N. A.**, Sladky, R., Karl, S., Boch, M., Laistler, E., Windischberger, C., Huber, L., & Lamm, C. (2023). [Validation of a new coil array tailored for dog functional magnetic resonance imaging (fMRI) studies](https://www.eneuro.org/content/10/3/ENEURO.0083-22.2022). eNeuro, 10(3).
