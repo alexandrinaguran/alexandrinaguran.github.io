@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
-  - {url: "CV_Alexandrina_Guran_2024_Engl_ws.pdf", title: CV download}
+  - {url: "CV_Alexandrina_Guran_2024_Engl_ws.pdf", title: CV}
   - {file: "Publications.md", title: Publications}
   - {file: "projects.md", title: Current projects}
   - {title: Contact, url: "mailto:alexandrina.guran@univie.ac.at"}
