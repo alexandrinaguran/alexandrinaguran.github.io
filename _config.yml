@@ -1,4 +1,4 @@
-title: "Alexandrina Guran, PhD"
+-title: "Alexandrina Guran, PhD"
 author: "Alexandrina Guran"
 description: "Alexandrina Guran, PhD" #"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "ONLINE_CV_Guran.pdf", title: CV}
   - {file: "Publications.md", title: Publications}
   - {file: "projects.md", title: Current projects}
+  - {file: "Science_Communication.md", title: Science Communication}
   - {title: Contact, url: "mailto:alexandrina.guran@univie.ac.at"}
 #  - {file: "Students.html", title: Students}
   - {title: "CCNU", url: "https://ccnu.univie.ac.at/"}
