@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: "/Blog/"
+permalink: "/Science_Communication/"
 layout: page
 ---
 
