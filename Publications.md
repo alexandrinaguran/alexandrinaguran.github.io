@@ -6,6 +6,8 @@ layout: page
 
 # Peer-Reviewed Publications 
 
+ - **Guran, C.-N. A.**, Boch, M., Sladky, R., Lonardo, L., Karl, S., Huber, L., & Lamm, C. (2024). [Functional mapping of the somatosensory cortex using noninvasive fMRI and touch in awake dogs](https://doi.org/10.1007/s00429-024-02798-0). Brain Structure and Function.
+ - **Guran, C.-N. A.**, Lonardo, L., Tünte, M., Arzberger, K., Völter, C. J., Hoehl, S., Huber, L., & Lamm, C. (2024). [Investigating belief understanding in children in a nonverbal ambiguous displacement and communication setting](https://www.sciencedirect.com/science/article/pii/S0022096523002060). Journal of Experimental Child Psychology, 240, 105830.
  - Ruiz, M., Groessing, A., **Guran, C. N. A.**, ... (2023). [Music for autism: a protocol for an international randomized crossover trial on music therapy for children with autism]
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10598663/). Frontiers in Psychiatry, 14. 
  - **ManyDogs Project**, Espinosa, J., ... (2023). [ManyDogs 1: A Multi-Lab Replication Study of Dogs’ Pointing
@@ -19,6 +21,5 @@ Comprehension]
 
 # Preprints
 
-- **Guran, C. N. A.**, Lonardo, L., Tünte, M. R., Arzberger, K., Völter, C., Hoehl, S., ... & Lamm, C. (2022). [False belief understanding in children and dogs in a nonverbal ambiguous displacement and communication setting.](https://psyarxiv.com/s5ygj/download/?format=pdf) PsyRXiv. 
 - Alberghina, D., Bray, E., Buchsbaum, D., Byosiere, S. E., Espinosa, J., Gnanadesikan, G., **Guran, C.N.A.**, ... & Stevens, J. R. (2022). [ManyDogs Project: A Big Team Science Approach to Investigating Canine Behavior and Cognition](https://psyarxiv.com/j82uc/download?format=pdf). PsyRXiv. 
 
