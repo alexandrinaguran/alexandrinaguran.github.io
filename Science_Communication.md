@@ -19,5 +19,6 @@ layout: page
 
 - two articles accepted, one at InMind Germany, another at the NaWik Blog. 
 
-# 2023
-- [What do children do in a so-called False-belief paradigm when given no instructions? How does this compare to dogs´ behavior?](https://twitter.com/GuranCNA/status/1737067946013331563), twitter thread 
+# 2023 and before 
+- [What do children do in a so-called False-belief paradigm when given no instructions? How does this compare to dogs´ behavior?](https://twitter.com/GuranCNA/status/1737067946013331563), twitter thread
+- [Improving image quality for dog fMRI](https://twitter.com/GuranCNA/status/1567159758217527299), twitter thread on a new dog head coil
