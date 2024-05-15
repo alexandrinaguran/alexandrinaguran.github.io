@@ -7,6 +7,7 @@ layout: page
 # 2024
 ## In English
 
+ - [Polio vaccination coverage has quadrupled in the last four decades](https://twitter.com/GuranCNA/status/1790770909067833659), a short insight on Polio vaccinations and case number reductions over the last 40+ years
  - [Why taking part in scientific studies matters](https://klinische-gesundheit-psy.univie.ac.at/forschung/arbeitsbereiche-und-arbeitsgruppen/clinical-social-neuroscience-unit/ongoing-projects/an-bel-projekt/english-version/)
  - [Why we do what we do](https://www.m4a-project.net/), a short piece about the "Music 4 Autism" project.
  - [The two Germanies today](https://gingerinberlinger.wixsite.com/cmichinger/two-germanies), a set of articles hinging on statistics of East and West Germany today (2022/2023).
