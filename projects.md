@@ -6,14 +6,6 @@ layout: page
 **My most relevant current projects**
 
 
-# Music for Autism "M4A"
-
-Collaboration partners: Dr. Giorgia Silani, Dr. Christian Gold. 
-
-In this project, I was responsible for the design and implementation of the music prediction task, in which children are presented with consonant and dissonant stimuli and learn to associate them with certain images. Our aim is to investigate whether prediction forming is disturbed in ASD and whether musictherapy can have a beneficial effect on music-related and social predictions.  
-For more info, see my preprints or the project website at: https://www.m4a-project.net/
-
-
 # Dog´s perception of social interaction 
 
 Leading author in project (MRI-research). Selection of collaborators: Prof. Claus Lamm, Prof. Ludwig Huber, Dr. Christoph Völter, Dr. Magdalena Boch, Lucrezia Lonardo
@@ -32,6 +24,13 @@ In this project, I am responsible for designing explicit and implicit measures o
 
 In a time of replication crises, big team science is one important way to make sure our findings are robust and valid. I joined ManyDogs in 2021 and have contributed to two manuscripts (see publications section) and found a community of supportive canine researchers there. 
 If you want to join the project, or for more information, visit: https://manydogsproject.github.io/. 
+
+# Music for Autism "M4A"
+
+Collaboration partners: Dr. Giorgia Silani, Dr. Christian Gold. 
+
+In this project, I was responsible for the design and implementation of the music prediction task, in which children are presented with consonant and dissonant stimuli and learn to associate them with certain images. Our aim is to investigate whether prediction forming is disturbed in ASD and whether musictherapy can have a beneficial effect on music-related and social predictions.  
+For more info, see my preprints or the project website at: https://www.m4a-project.net/
 
 
 # Other 
