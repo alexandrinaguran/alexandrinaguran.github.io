@@ -5,7 +5,7 @@ layout: page
 ---
 
 # 2025 
-- [Why I am not going to use AI]https://everythingisdata.substack.com/p/why-i-am-not-going-to-use-ai), A manifesto of sorts against the use of AI for creative endeavours
+- [Why I am not going to use AI](https://everythingisdata.substack.com/p/why-i-am-not-going-to-use-ai), A manifesto of sorts against the use of AI for creative endeavours
 - [Everything is Data: Skype 3](https://everythingisdata.substack.com/p/skype-in-the-era-of-smartphones), A trilogy about how Skype shaped our communication and became obsolete
   
 # 2024
