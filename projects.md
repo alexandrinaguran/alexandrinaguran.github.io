@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 **My most relevant current projects**
-
+If you are interested in any of these projects, feel free to reach out at: alexandrina.guran [at] medicalschool-hamburg . de (remove spaces)
 
 # Human Animal Perception 
 
@@ -25,7 +25,11 @@ Collaboration partners: Prof. Dr. Friederike Range, PI Dr. Sarah Marshall-Pescin
 
 In this project, I am responsible for designing explicit and implicit measures of attitudes towards dogs, wolves, and free-ranging dogs. To this end, we developed a questionnaire measuring sociodemographic data and attitudes. Additionally, I designed an adaptation of an IAT (implicit association test) to measure response-time based implicit biases for different animals. 
 
+# Human-Nonhuman Social Interactions 
 
+PI 
+
+Never did our social lives include as much contact that does not take place face-to-face, or even with another human agent. How do we use AI in social interactions and how does it shape our sociality? 
 
 
 
