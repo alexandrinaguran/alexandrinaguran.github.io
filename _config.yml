@@ -21,12 +21,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: Publications}
   - {file: "projects.md", title: Current projects}
   - {file: "Science_Communication.md", title: Science Communication}
-  - {title: Contact, url: "mailto:alexandrina.guran@univie.ac.at"}
+  - {title: Contact, url: "mailto:alexandrina.guran@medicalschool-hamburg.de"}
 #  - {file: "Students.html", title: Students}
   - {title: "CCNU", url: "https://ccnu.univie.ac.at/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:alexandrina.guran@univie.ac.at"}
+  - {title: Mail, icon: envelope, url: "mailto:alexandrina.guran@medicalschool-hamburg.de"}
   - {title: Github, icon: github, url: "https://github.com/alexandrinaguran"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GuranCNA"}
 
