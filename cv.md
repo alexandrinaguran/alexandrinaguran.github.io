@@ -13,7 +13,7 @@ layout: page
 ## Teaching
 I started gathering teaching experience during my undergraduate, as a tutor for statistics and experimental practicals. During my PhD, I taught 
 developmental psychology for 3 semesters, and devised my own Music Psychology and Evolutionary Psychology classes which I taught for two 
-semesters each. 
+semesters each. Over the years, I have supervised over 20 thesis students (BA and MAs mostly). At the Medical School Hamburg, I am tasked with teaching research methods at the Master´s level. 
 
 ## Education
 
